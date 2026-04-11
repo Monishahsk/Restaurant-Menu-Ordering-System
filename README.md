@@ -31,9 +31,3 @@ This project is created to practice Python basics like dictionaries, loops, cond
    ```bash
    python RstMenu.py
 
-
-
-- Or **:contentReference[oaicite:1]{index=1}**
-- Or **:contentReference[oaicite:2]{index=2}**
-
-I’ll guide you exactly 👌
